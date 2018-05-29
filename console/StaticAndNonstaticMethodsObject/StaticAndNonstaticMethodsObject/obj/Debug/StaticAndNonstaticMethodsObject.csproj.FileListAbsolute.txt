@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\StaticAndNonstaticMethodsObject\StaticAndNonstaticMethodsObject\bin\Debug\StaticAndNonstaticMethodsObject.exe.config
+C:\Users\itsupport\Desktop\c#\console\StaticAndNonstaticMethodsObject\StaticAndNonstaticMethodsObject\bin\Debug\StaticAndNonstaticMethodsObject.exe
+C:\Users\itsupport\Desktop\c#\console\StaticAndNonstaticMethodsObject\StaticAndNonstaticMethodsObject\bin\Debug\StaticAndNonstaticMethodsObject.pdb
+C:\Users\itsupport\Desktop\c#\console\StaticAndNonstaticMethodsObject\StaticAndNonstaticMethodsObject\obj\Debug\StaticAndNonstaticMethodsObject.csprojResolveAssemblyReference.cache
+C:\Users\itsupport\Desktop\c#\console\StaticAndNonstaticMethodsObject\StaticAndNonstaticMethodsObject\obj\Debug\StaticAndNonstaticMethodsObject.exe
+C:\Users\itsupport\Desktop\c#\console\StaticAndNonstaticMethodsObject\StaticAndNonstaticMethodsObject\obj\Debug\StaticAndNonstaticMethodsObject.pdb

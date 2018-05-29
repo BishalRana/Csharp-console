@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\ArrayException\ArrayException\bin\Debug\ArrayException.exe.config
+C:\Users\itsupport\Desktop\c#\console\ArrayException\ArrayException\bin\Debug\ArrayException.exe
+C:\Users\itsupport\Desktop\c#\console\ArrayException\ArrayException\bin\Debug\ArrayException.pdb
+C:\Users\itsupport\Desktop\c#\console\ArrayException\ArrayException\obj\Debug\ArrayException.exe
+C:\Users\itsupport\Desktop\c#\console\ArrayException\ArrayException\obj\Debug\ArrayException.pdb
+C:\Users\itsupport\Desktop\c#\console\ArrayException\ArrayException\obj\Debug\ArrayException.csprojResolveAssemblyReference.cache

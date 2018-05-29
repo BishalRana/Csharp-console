@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\forloop\forloop\bin\Debug\forloop.exe.config
+C:\Users\itsupport\Desktop\c#\console\forloop\forloop\bin\Debug\forloop.exe
+C:\Users\itsupport\Desktop\c#\console\forloop\forloop\bin\Debug\forloop.pdb
+C:\Users\itsupport\Desktop\c#\console\forloop\forloop\obj\Debug\forloop.csprojResolveAssemblyReference.cache
+C:\Users\itsupport\Desktop\c#\console\forloop\forloop\obj\Debug\forloop.exe
+C:\Users\itsupport\Desktop\c#\console\forloop\forloop\obj\Debug\forloop.pdb

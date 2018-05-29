@@ -1,0 +1,5 @@
+C:\Users\itsupport\Desktop\c#\console\ForLoopExercise\ForLoopExercise\bin\Debug\ForLoopExercise.exe.config
+C:\Users\itsupport\Desktop\c#\console\ForLoopExercise\ForLoopExercise\bin\Debug\ForLoopExercise.exe
+C:\Users\itsupport\Desktop\c#\console\ForLoopExercise\ForLoopExercise\bin\Debug\ForLoopExercise.pdb
+C:\Users\itsupport\Desktop\c#\console\ForLoopExercise\ForLoopExercise\obj\Debug\ForLoopExercise.exe
+C:\Users\itsupport\Desktop\c#\console\ForLoopExercise\ForLoopExercise\obj\Debug\ForLoopExercise.pdb

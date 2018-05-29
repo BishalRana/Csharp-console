@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\VehiclesInheritance\VehiclesInheritance\bin\Debug\VehiclesInheritance.exe.config
+C:\Users\student\Desktop\VehiclesInheritance\VehiclesInheritance\bin\Debug\VehiclesInheritance.exe
+C:\Users\student\Desktop\VehiclesInheritance\VehiclesInheritance\bin\Debug\VehiclesInheritance.pdb
+C:\Users\student\Desktop\VehiclesInheritance\VehiclesInheritance\obj\Debug\VehiclesInheritance.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\VehiclesInheritance\VehiclesInheritance\obj\Debug\VehiclesInheritance.exe
+C:\Users\student\Desktop\VehiclesInheritance\VehiclesInheritance\obj\Debug\VehiclesInheritance.pdb

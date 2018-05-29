@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\methodExercise\methodExercise\bin\Debug\methodExercise.exe.config
+C:\Users\itsupport\Desktop\c#\console\methodExercise\methodExercise\bin\Debug\methodExercise.exe
+C:\Users\itsupport\Desktop\c#\console\methodExercise\methodExercise\bin\Debug\methodExercise.pdb
+C:\Users\itsupport\Desktop\c#\console\methodExercise\methodExercise\obj\Debug\methodExercise.csprojResolveAssemblyReference.cache
+C:\Users\itsupport\Desktop\c#\console\methodExercise\methodExercise\obj\Debug\methodExercise.exe
+C:\Users\itsupport\Desktop\c#\console\methodExercise\methodExercise\obj\Debug\methodExercise.pdb

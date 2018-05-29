@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\itsupport\Desktop\c#\console\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\itsupport\Desktop\c#\console\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\itsupport\Desktop\c#\console\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\itsupport\Desktop\c#\console\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.pdb
+C:\Users\itsupport\Desktop\c#\console\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csprojResolveAssemblyReference.cache

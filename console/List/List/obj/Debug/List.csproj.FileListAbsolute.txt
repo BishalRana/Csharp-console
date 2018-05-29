@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\List\List\bin\Debug\List.exe.config
+C:\Users\itsupport\Desktop\c#\console\List\List\bin\Debug\List.exe
+C:\Users\itsupport\Desktop\c#\console\List\List\bin\Debug\List.pdb
+C:\Users\itsupport\Desktop\c#\console\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\itsupport\Desktop\c#\console\List\List\obj\Debug\List.exe
+C:\Users\itsupport\Desktop\c#\console\List\List\obj\Debug\List.pdb

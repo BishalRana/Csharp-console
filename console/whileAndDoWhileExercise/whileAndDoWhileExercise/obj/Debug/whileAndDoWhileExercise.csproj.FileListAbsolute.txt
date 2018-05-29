@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\whileAndDoWhileExercise\whileAndDoWhileExercise\bin\Debug\whileAndDoWhileExercise.exe.config
+C:\Users\itsupport\Desktop\c#\console\whileAndDoWhileExercise\whileAndDoWhileExercise\obj\Debug\whileAndDoWhileExercise.csprojResolveAssemblyReference.cache
+C:\Users\itsupport\Desktop\c#\console\whileAndDoWhileExercise\whileAndDoWhileExercise\bin\Debug\whileAndDoWhileExercise.exe
+C:\Users\itsupport\Desktop\c#\console\whileAndDoWhileExercise\whileAndDoWhileExercise\bin\Debug\whileAndDoWhileExercise.pdb
+C:\Users\itsupport\Desktop\c#\console\whileAndDoWhileExercise\whileAndDoWhileExercise\obj\Debug\whileAndDoWhileExercise.exe
+C:\Users\itsupport\Desktop\c#\console\whileAndDoWhileExercise\whileAndDoWhileExercise\obj\Debug\whileAndDoWhileExercise.pdb

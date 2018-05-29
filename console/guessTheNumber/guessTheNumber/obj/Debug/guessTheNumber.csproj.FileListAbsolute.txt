@@ -1,0 +1,5 @@
+C:\Users\itsupport\Desktop\c#\console\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.exe.config
+C:\Users\itsupport\Desktop\c#\console\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.exe
+C:\Users\itsupport\Desktop\c#\console\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.pdb
+C:\Users\itsupport\Desktop\c#\console\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.exe
+C:\Users\itsupport\Desktop\c#\console\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.pdb

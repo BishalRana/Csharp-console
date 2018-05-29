@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\SwitchExercicse\SwitchExercicse\bin\Debug\SwitchExercicse.exe.config
+C:\Users\itsupport\Desktop\c#\console\SwitchExercicse\SwitchExercicse\obj\Debug\SwitchExercicse.csprojResolveAssemblyReference.cache
+C:\Users\itsupport\Desktop\c#\console\SwitchExercicse\SwitchExercicse\bin\Debug\SwitchExercicse.exe
+C:\Users\itsupport\Desktop\c#\console\SwitchExercicse\SwitchExercicse\bin\Debug\SwitchExercicse.pdb
+C:\Users\itsupport\Desktop\c#\console\SwitchExercicse\SwitchExercicse\obj\Debug\SwitchExercicse.exe
+C:\Users\itsupport\Desktop\c#\console\SwitchExercicse\SwitchExercicse\obj\Debug\SwitchExercicse.pdb

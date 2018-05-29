@@ -1,0 +1,11 @@
+/Users/bishalrana/Projects/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.deps.json
+/Users/bishalrana/Projects/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.json
+/Users/bishalrana/Projects/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.dev.json
+/Users/bishalrana/Projects/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.dll
+/Users/bishalrana/Projects/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.pdb
+/Users/bishalrana/Projects/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csprojResolveAssemblyReference.cache
+/Users/bishalrana/Projects/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/bishalrana/Projects/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfoInputs.cache
+/Users/bishalrana/Projects/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfo.cs
+/Users/bishalrana/Projects/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.dll
+/Users/bishalrana/Projects/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.pdb

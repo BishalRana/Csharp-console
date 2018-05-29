@@ -1,0 +1,1 @@
+C:\Users\itsupport\Desktop\c#\console\factorial\factorial\bin\Debug\factorial.exe.config

@@ -1,0 +1,6 @@
+C:\Users\itsupport\Desktop\c#\console\ObjectsAndFieldsexercise\ObjectsAndFieldsexercise\bin\Debug\ObjectsAndFieldsexercise.exe.config
+C:\Users\itsupport\Desktop\c#\console\ObjectsAndFieldsexercise\ObjectsAndFieldsexercise\bin\Debug\ObjectsAndFieldsexercise.exe
+C:\Users\itsupport\Desktop\c#\console\ObjectsAndFieldsexercise\ObjectsAndFieldsexercise\bin\Debug\ObjectsAndFieldsexercise.pdb
+C:\Users\itsupport\Desktop\c#\console\ObjectsAndFieldsexercise\ObjectsAndFieldsexercise\obj\Debug\ObjectsAndFieldsexercise.csprojResolveAssemblyReference.cache
+C:\Users\itsupport\Desktop\c#\console\ObjectsAndFieldsexercise\ObjectsAndFieldsexercise\obj\Debug\ObjectsAndFieldsexercise.exe
+C:\Users\itsupport\Desktop\c#\console\ObjectsAndFieldsexercise\ObjectsAndFieldsexercise\obj\Debug\ObjectsAndFieldsexercise.pdb

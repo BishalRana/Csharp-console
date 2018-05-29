@@ -1,0 +1,5 @@
+C:\Users\itsupport\Desktop\c#\console\ErrorHandlingPractice\ErrorHandlingPractice\bin\Debug\ErrorHandlingPractice.exe.config
+C:\Users\itsupport\Desktop\c#\console\ErrorHandlingPractice\ErrorHandlingPractice\bin\Debug\ErrorHandlingPractice.exe
+C:\Users\itsupport\Desktop\c#\console\ErrorHandlingPractice\ErrorHandlingPractice\bin\Debug\ErrorHandlingPractice.pdb
+C:\Users\itsupport\Desktop\c#\console\ErrorHandlingPractice\ErrorHandlingPractice\obj\Debug\ErrorHandlingPractice.exe
+C:\Users\itsupport\Desktop\c#\console\ErrorHandlingPractice\ErrorHandlingPractice\obj\Debug\ErrorHandlingPractice.pdb
